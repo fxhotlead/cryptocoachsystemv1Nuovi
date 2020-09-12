@@ -917,7 +917,7 @@ a {
   background-image: url("../../../assets/images/background3.jpg");
 }
 .cid-s8B3a71BB3 .mbr-overlay {
-  background: linear-gradient(135deg, #6f3f7c, #5849aa);
+  background: linear-gradient(135deg, #32da1a, #5849aa);
 }
 .cid-s8B3a71BB3 .container-fluid {
   padding-left: 50px !important;
@@ -971,12 +971,12 @@ a {
   display: inline-block;
   opacity: 0.9;
   transition: all 0.25s;
-  color: #000000 !important;
+  color: #e43f3f !important;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.04) !important;
 }
 .cid-s8B3a71BB3 .mbr-media span:hover {
   opacity: 1;
-  color: #000000 !important;
+  color: #32da1a !important;
   box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.5) !important;
   -webkit-box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.5) !important;
 }
