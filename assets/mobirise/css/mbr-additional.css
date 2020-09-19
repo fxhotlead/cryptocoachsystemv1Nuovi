@@ -1237,7 +1237,7 @@ a {
   height: 100%;
   transition: all 0.3s;
   content: '';
-  background: #a8aaf1;
+  background: #f2e415;
   pointer-events: none;
   opacity: 0;
 }
@@ -1277,7 +1277,7 @@ a {
   }
 }
 .cid-s8B5rCJ6ub .icon1 {
-  background: #a8aaf1;
+  background: #32da1a;
 }
 .cid-s8B5rCJ6ub .icon2 {
   background: #ff9083;
@@ -1443,7 +1443,7 @@ a {
   content: "";
 }
 .cid-s9JznVhbRD .modal-content {
-  background: #f8f8f8;
+  background: #bbbbbb;
   position: relative;
   display: flex;
   -ms-flex-direction: column;
