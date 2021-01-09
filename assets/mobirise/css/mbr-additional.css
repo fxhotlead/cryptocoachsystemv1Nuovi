@@ -609,8 +609,8 @@ body {
 .btn-white.disabled,
 .btn-white:disabled {
   color: #fafafa !important;
-  background-color: #fafafa !important;
-  border-color: #fafafa !important;
+  background-color: #e1e1e1 !important;
+  border-color: #e1e1e1 !important;
 }
 .btn-white,
 .btn-white:active,
@@ -686,8 +686,8 @@ body {
 .btn-black:hover.disabled,
 .btn-black:hover:disabled {
   color: #fafafa !important;
-  background-color: #fafafa !important;
-  border-color: #fafafa !important;
+  background-color: #e1e1e1 !important;
+  border-color: #e1e1e1 !important;
 }
 .text-primary {
   color: #32da1a !important;
